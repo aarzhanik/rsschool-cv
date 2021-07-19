@@ -19,3 +19,13 @@ HTML, CSS, JavaScript, Git, VBScript, ASP, C#, ASP.NET, .NET, SQL, VSCode, Visua
 
 - 2016 Listen - “ASP.NET MVC 4.0” - Belhard
 - 2021 Listen - “Front-End Web Development with React” Senla, Frontend-developer
+
+## My project
+
+- [Senla Landing](https://senla-help-animal.netlify.app/)
+- [ToDo]()
+- [Films DB]()
+
+## English
+
+- A1
